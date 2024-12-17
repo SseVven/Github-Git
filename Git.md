@@ -113,6 +113,14 @@
 
 git **靠行维护**，修改某一行，会以删旧插新的方式维护，所以**修改一行等于 删1增1**
 
+### git reset
+
+> 版本穿梭
+
+`git reset --hard versionID`
+
+
+
 ## C4 Branch Op
 
 ## C5 Team Corporation
