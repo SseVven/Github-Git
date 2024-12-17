@@ -119,9 +119,28 @@ git **靠行维护**，修改某一行，会以删旧插新的方式维护，所
 
 `git reset --hard versionID`
 
+![image-20241217202454142](./assets/image-20241217202454142.png)
 
+**head 指针 对分支和版本之间的切换原理**
+
+![image-20241217202515936](./assets/image-20241217202515936.png)
 
 ## C4 Branch Op
+
+### branch
+
+![image-20241217203409089](./assets/image-20241217203409089.png)
+
+### 查看创建切换
+
+| cmd                   | inf                        |
+| --------------------- | -------------------------- |
+| `git branch 分支名`   | 创建分支                   |
+| `git branch -v`       | 查看分支                   |
+| `git checkout 分支名` | 切换分支                   |
+| `git merge 分支名`    | 把指定分支合并到当前分支上 |
+
+
 
 ## C5 Team Corporation
 
