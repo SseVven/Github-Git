@@ -181,11 +181,19 @@ dev1-->lhy-->lhy1
 
 ![image-20241218103221295](./assets/image-20241218103221295.png)
 
-
-
 ## C5 Team Corporation
 
+### team
+
+![image-20241218110217034](./assets/image-20241218110217034.png)
+
+### cross-team
+
+![image-20241218110651670](./assets/image-20241218110651670.png)
+
 ## C6 GitHub
+
+
 
 ## C7 IDEA Git
 
