@@ -193,7 +193,55 @@ dev1-->lhy-->lhy1
 
 ## C6 GitHub
 
+> [github.com](https://github.com/)
 
+### 创建远程库
+
+> 在 github 上创建远程库
+
+### 远程库操作
+
+https://github.com/SseVven/Github-Git.git
+
+#### `git remote`
+
+![image-20241218112508166](./assets/image-20241218112508166.png)
+
+#### `git push`
+
+![image-20241218113000478](./assets/image-20241218113000478.png)
+
+![image-20241218113526768](./assets/image-20241218113526768.png)
+
+#### `git pull`
+
+> **每天工作和提交前的动作就是同步最新代码**
+
+![image-20241218113932456](./assets/image-20241218113932456.png)
+
+#### `git clone`
+
+> 从 0 获取远程库的方式
+>
+> 公共库的 clone 是不需要账号登陆的
+>
+> git clone 做的三件事
+>
+> 1. **拉取代码**
+> 2. **初始化本地库**
+> 3. **创建别名 origin**
+
+![image-20241218114426025](./assets/image-20241218114426025.png)
+
+#### team cooperation
+
+#### cross-team
+
+`fork`; `pull request`
+
+#### SSH
+
+[26_尚硅谷_Git_GitHub_SSH免密登录_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1vy4y1s7k6?spm_id_from=333.788.player.switch&vd_source=b14ac361c3cb3cf90bbddfb7e831b92a&p=26)
 
 ## C7 IDEA Git
 
